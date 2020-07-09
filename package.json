@@ -7,6 +7,10 @@
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
   },
+  "build":{
+    "command":" npm run build",
+    "commandOrigin":" ui",
+    "publish": "/opt/build/repo/build"},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
