@@ -58,7 +58,7 @@ table tr:last-child td:last-child {
 @keyframes neon-orange {
   0%,
   100% {
-    
+      
     color: #fed128;
   }
   50% {
